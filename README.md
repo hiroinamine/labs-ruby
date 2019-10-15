@@ -20,7 +20,8 @@ Link com tutorial para instalação no Ubuntu 18.04 --> [aqui](https://www.digit
 - Aula 3: Estruturas de controle (condicional e iteração)
 - Aula 4: Coleções (array e hash), metodos básicos de coleções (each, map, select)
 - Aula 5: Métodos, Gems
-
+- Aula 6: Orientação a objetos, Classes, Herança, Polimorfismo
+- Aula 7: Require, Escopo de Variaveis, Atributos, Construtor
 
 ## Running
 

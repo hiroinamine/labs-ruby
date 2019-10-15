@@ -1,31 +1,31 @@
 # tipos de dados
 
-myVar = 10 # tipagem dinamica
-puts myVar.class
-myVar = 10.10
-puts myVar.class
-myVar = true
-puts myVar.class
-myVar = "Ola mundo"
-puts myVar.class
+my_var = 10 # tipagem dinamica
+puts my_var.class
+my_var = 10.10
+puts my_var.class
+my_var = true
+puts my_var.class
+my_var = "Ola mundo"
+puts my_var.class
 puts '-----------'
 
-myArray = ["Ola mundo", "new", "world"]
-puts myArray.class
-puts myArray[2]
+my_array = ["Ola mundo", "new", "world"]
+puts my_array.class
+puts my_array[2]
 puts '-----------'
 
-mySymbol = :ruby_symbol
-puts mySymbol.class, mySymbol.object_id
+my_symbol = :ruby_symbol
+puts my_symbol.class, my_symbol.object_id
 mySecondSymbol = :ruby_symbol
-puts mySymbol.object_id, mySecondSymbol.object_id
+puts my_symbol.object_id, mySecondSymbol.object_id
 myS1 = "one"
 myS2 = "two"
 puts myS1.object_id, myS2.object_id
 puts '-----------'
 
-myHash = { course: 'ruby', language: 'pt-br', isNew: true }
-puts myHash[:course]
+my_hash = { course: 'ruby', language: 'pt-br', isNew: true }
+puts my_hash[:course]
 puts '-----------'
 
 # operadores matematicos
