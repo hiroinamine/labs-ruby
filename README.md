@@ -24,6 +24,7 @@ Link com tutorial para instalação no Ubuntu 18.04 --> [aqui](https://www.digit
 - Aula 7: Require, Escopo de Variaveis, Atributos, Construtor
 - Aula 8: Blocks, Lambdas, Modules (namespace e mixins)
 - Aula 9: Regex, time, method missing, self, private and protected
+- Aula 10: File, http, web scrapping
 
 ## Running
 
