@@ -23,6 +23,7 @@ Link com tutorial para instalação no Ubuntu 18.04 --> [aqui](https://www.digit
 - Aula 6: Orientação a objetos, Classes, Herança, Polimorfismo
 - Aula 7: Require, Escopo de Variaveis, Atributos, Construtor
 - Aula 8: Blocks, Lambdas, Modules (namespace e mixins)
+- Aula 9: Regex, time, method missing, self, private and protected
 
 ## Running
 
